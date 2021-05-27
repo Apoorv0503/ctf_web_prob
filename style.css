@@ -3,7 +3,7 @@
 body
 {
  background-color: black;
-  background-image: url("C:/Users/91798/Downloads/bg1.png");
+  background-image: url("bg1.png");
 }
 .box
 {
@@ -11,7 +11,7 @@ body
    width: auto;
   /* padding-bottom: 20%;*/
   visibility: hidden;
-  background-image: url("C:/Users/91798/Downloads/coding.png");
+  background-image: url("coding.png");
  margin-top: 10%;
   margin-right: 30%;
    margin-bottom: 10%;
